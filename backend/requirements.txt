@@ -8,6 +8,6 @@ pydantic-settings==2.6.1
 cryptography==43.0.3
 python-magic==0.4.27
 aiofiles==24.1.0
-markitdown==0.1.5
+markitdown[pdf,docx,pptx,xlsx,xls,outlook,audio-transcription]==0.1.5
 openai==1.54.0
 greenlet==3.5.0
